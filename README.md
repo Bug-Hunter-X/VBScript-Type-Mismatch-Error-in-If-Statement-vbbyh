@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in VBScript that occurs when comparing values of different data types within an If statement. The bug.vbs file contains the erroneous code, and the bugSolution.vbs file provides a corrected version with appropriate type checking.
